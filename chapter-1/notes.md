@@ -22,6 +22,15 @@
 * Model-based learning: build a model, make predictions
 * Utility or fitness function: how good is your model
 * Cost function: how bad is your model
+* Sampling Bias
+* Nonresponse Bias
+* Feature engineering: finding the effective features to work with when training your model
+* Regularization: constrain a model to help prevent overfitting
+* Hyperparameters: can help control regularization
+* Generalization error or out-of-sample error: error rate for model on data it hasn't seen before
+* Validation set: a subset of the training set used in order to do things like validate multiple models so that you don't overfit. This process is called *holdout validation*.
+* Cross validation: validate models using multiple validation sets of the larger training set. Trade-off being runtime.
+
  
 ## Concepts
 
